@@ -8,7 +8,7 @@
  function createCar(manufacture:string,model:string,optional:Record<string,any>):car{
     return{
         manufacture,
-        model;
+        model,
         ...optional
     }
  }

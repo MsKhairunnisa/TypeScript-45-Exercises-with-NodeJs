@@ -1,2 +1,3 @@
-var personname = "hello eric";
+"use strict";
+let personname = "hello eric";
 console.log(personname, "would you like to learn some Python today");
